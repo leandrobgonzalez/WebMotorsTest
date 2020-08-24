@@ -1,0 +1,9 @@
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Domain\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.deps.json
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Domain\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.dll
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Domain\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.pdb
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Domain\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Domain\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Domain\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.AssemblyInfo.cs
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Domain\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Domain\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.dll
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Domain\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.pdb

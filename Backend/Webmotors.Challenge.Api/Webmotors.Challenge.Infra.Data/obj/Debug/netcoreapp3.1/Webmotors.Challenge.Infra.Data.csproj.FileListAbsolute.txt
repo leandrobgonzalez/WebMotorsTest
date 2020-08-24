@@ -1,0 +1,12 @@
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.deps.json
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.dll
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.pdb
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.dll
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.pdb
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.AssemblyInfo.cs
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.csproj.CopyComplete
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.dll
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Infra.Data\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Infra.Data.pdb

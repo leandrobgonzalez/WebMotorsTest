@@ -1,0 +1,12 @@
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Service.deps.json
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Service.dll
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Service.pdb
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.dll
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\bin\Debug\netcoreapp3.1\Webmotors.Challenge.Domain.pdb
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Service.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Service.AssemblyInfo.cs
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Service.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Service.csproj.CopyComplete
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Service.dll
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Service.pdb
+C:\Users\leand\Desktop\webmotors\Teste Leandro\Teste Leandro\Backend\Webmotors.Challenge.Api\Webmotors.Challenge.Service\obj\Debug\netcoreapp3.1\Webmotors.Challenge.Service.csprojAssemblyReference.cache
